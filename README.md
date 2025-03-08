@@ -21,5 +21,6 @@ python tracker.py
 Right now, the code is checking discounts continuously and every 5 hours sending messages on telegram. 
 
 Note: The program is originally written in Turkish, but you can easily translate it into English using an AI tool like ChatGPT.
+
 For turkish peoples:
 arkdslar isine yaricak varsa bu arada dore muzik linklerini de koyabiliyorsunuz, sepetteki fiyatini takip edip ona gore bildiriyor. elixir telleri bu sekilde takip ediyorum. 👍
